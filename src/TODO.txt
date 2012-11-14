@@ -1,0 +1,15 @@
+/**
+ * Erenci
+ * LabRoCoCo: labrococo.dis.uniroma1.it
+ * @author: Lorenzo Tognalini: lorenzo.togna@gmail.com
+ *
+ */
+
+## LORENZO TODO:
+- put a waiting bar "waiting for answer from server"
+- manage enabling of menu action items
+- use the unique function to set a pose that get parameters, not string hide implmentation of poses.
+- after import if you close without editing no save queried
+-------------------------------------------------------------------------
+## TESTERS TODO:
+- manual setting of time have problems in saving with dot/comma
